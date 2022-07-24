@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RobertZhang20020901
 - 👀 I’m interested in XR/CV/GAN
-- 🌱 I’m currently learning digital media technology
 - 💞️ I’m looking to collaborate on AI & HCI
 - 📫 18915332899@163.com
 
